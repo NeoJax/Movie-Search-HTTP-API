@@ -1,0 +1,27 @@
+{
+  "name": "movie-search-http-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "movieSearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeoJax/Movie-Search-HTTP-API.git"
+  },
+  "author": "Johnathon Lubaway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeoJax/Movie-Search-HTTP-API/issues"
+  },
+  "homepage": "https://github.com/NeoJax/Movie-Search-HTTP-API#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.0",
+    "nodemon": "^1.12.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
